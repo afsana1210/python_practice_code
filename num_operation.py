@@ -22,7 +22,7 @@ try:
     elif opration=='substract':
         result=num1-num2
         print('{}-{}={}'.format(num1,num2,result))
-    elif opration=='Multiply':
+    elif opration=='multiply':
         result=num1*num2
         print('{}*{}={}'.format(num1,num2,result))
     elif opration=='divide':
